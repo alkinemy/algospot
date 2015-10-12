@@ -2,6 +2,10 @@ package com.joke.algospot.picnic;
 
 import java.util.Scanner;
 
+
+/**
+ * https://algospot.com/judge/problem/read/PICNIC
+ */
 public class Picnic {
     public static void main(String args[]) {
         new Picnic().solve();

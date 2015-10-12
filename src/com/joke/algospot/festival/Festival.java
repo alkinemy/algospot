@@ -2,6 +2,10 @@ package com.joke.algospot.festival;
 
 import java.util.Scanner;
 
+
+/**
+ * https://algospot.com/judge/problem/read/FESTIVAL
+ */
 public class Festival {
     public static void main(String args[]) {
         new Festival().solve();
