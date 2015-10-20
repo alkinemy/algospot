@@ -60,14 +60,6 @@ public class BoardCover {
 	}
 
 	private int solve2(int count) {
-//		for(int h = 0; h < height; h++) {
-//			for(int w = 0; w < width; w++) {
-//				System.out.print(board[h][w]);
-//			}
-//			System.out.println();
-//		}
-//		System.out.println("-------" + count);
-
 		int[] position = findAvailable();
 		int h = position[0];
 		int w = position[1];
